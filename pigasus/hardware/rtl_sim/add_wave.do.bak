@@ -1,0 +1,2 @@
+add wave -position insertpoint sim:/tb/partition_1/my_fpm/sm_inst/sm_inst/string_matcher_inst/front/*
+add wave -position insertpoint sim:/tb/partition_1/my_fpm/sm_inst/sm_inst/string_matcher_inst/back/*
